@@ -84,6 +84,6 @@ OSVERSIONINFO getInfoOS()
 int main()
 {
     OSVERSIONINFO osvi = getInfoOS();
-    std::cout << "Operating System: " << getVersion(osvi) << " " << getBit();
+    std::cout << "Operating System: " << getVersion(osvi) << " " << getBit() << " (Build " << osvi.dwBuildNumber << ")";
     return 0;
 }
