@@ -1,0 +1,2 @@
+C:\Users\RVale\source\repos\defineWindowsVersion\Debug\defineWindowsVersion.exe
+C:\Users\RVale\source\repos\defineWindowsVersion\Debug\defineWindowsVersion.pdb
